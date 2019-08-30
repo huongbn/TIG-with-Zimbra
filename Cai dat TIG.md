@@ -131,7 +131,7 @@ sudo systemctl enable grafana-server.service
 ```
 Giao diện dashboard Grafana như sau:
 
-![Imgur](https://i.imgur.com/dTXmRAe.png)
+
 
 # Tham khảo
 - https://wiki.zimbra.com/wiki/Monitoring_Zimbra_Collaboration_-_InfluxDB,_Telegraf_and_Grafana
